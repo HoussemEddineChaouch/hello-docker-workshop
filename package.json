@@ -1,0 +1,12 @@
+{
+  "name": "hello-docker",
+  "version": "1.0.0",
+  "description": "A tiny Node.js web server",
+  "license": "ISC",
+  "author": "Houssem Eddine Chaouch",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  }
+}
